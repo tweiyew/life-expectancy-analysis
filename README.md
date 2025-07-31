@@ -11,7 +11,7 @@ This project explores the key demographic, economic, and healthcare predictors o
 ## Tools Used
 - Language: R
 - Packages: ggplot2, dplyr, stats
-- Data Source: WHO Global Health Observatory (https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated)
+- Data Source: WHO Global Health Observatory (https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated/data)
 
 ## Notebooks
 The main analysis is available in [`notebooks/life_expectancy_analysis.ipynb`](notebooks/life_expectancy_analysis.ipynb).
